@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a999fbb8-2421-4d92-ac9b-194c16581287" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/relational_erm/rerm_model/treatment_outcome_predictor.py" afterPath="$PROJECT_DIR$/relational_erm/rerm_model/treatment_outcome_predictor.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="run_classifier.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/relational_erm/rerm_model/run_classifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/relational_erm/dataset/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="830">
+              <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+              <folding>
+                <element signature="e#64#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_classifier.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/submit_scripts/run_classifier.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="160">
+                <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="treatment_outcome_predictor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/relational_erm/rerm_model/treatment_outcome_predictor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="460" column="0" lean-forward="true" selection-start-line="460" selection-start-column="0" selection-end-line="460" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simulate_treatment_outcome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/relational_erm/data_cleaning/simulate_treatment_outcome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="357" column="44" lean-forward="false" selection-start-line="357" selection-start-column="44" selection-end-line="357" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simulate_treatment_outcome_baseline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/relational_erm/data_cleaning/simulate_treatment_outcome_baseline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="355" column="46" lean-forward="false" selection-start-line="355" selection-start-column="46" selection-end-line="355" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_unsupervised.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/submit_scripts/run_unsupervised.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="3" column="52" lean-forward="false" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>args.</find>
+      <find>make_input_fn</find>
+      <find>_get_value</find>
+      <find>arg_ma</find>
+      <find>pref</find>
+      <find>graph_data.</find>
+      <find>neighbours =</find>
+      <find>tf.cons</find>
+      <find>tf.constant</find>
+      <find>classes</find>
+      <find>vector</find>
+      <find>set</find>
+      <find>.set</find>
+      <find>tf.data</find>
+      <find>_get_val</find>
+      <find>compose</find>
+      <find>window</find>
+      <find>adapter</find>
+      <find>format_features_labels</find>
+      <find>format_</find>
+      <find>adapters</find>
+      <find>random</find>
+      <find>_make_metrics</find>
+      <find>kappa</find>
+      <find>split</find>
+      <find>config</find>
+      <find>_make</find>
+      <find>_make_label</find>
+      <find>$USER_HOME$/</find>
+      <find>$PROJECT_DIR$/../../../../../</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>make_label_logits(embeddings, features</replace>
+      <replace>make_label_logits(embeddings, features,</replace>
+      <replace>make_edge_list_logits(embeddings, features,</replace>
+      <replace>../../</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/relational_sgd/sampling/factories.py" />
+        <option value="$PROJECT_DIR$/models/logistic_reg_node2vec.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/data_processing/load_erm_embeddings.py" />
+        <option value="$PROJECT_DIR$/figures/igraph_figures.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/data_processing/wikipedia_hyperlink.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/models/node_classification_with_node_features.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/data_processing/helpers.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/data_processing/node2vec-datasets/blog_catalog_3.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/data_processing/utils.py" />
+        <option value="$PROJECT_DIR$/scripts/run_wikipedia_links.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/tensorflow_ops/biased_walk_dataset.cpp" />
+        <option value="$PROJECT_DIR$/scripts/run_skipgram_simple.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/graph_ops/representations.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/data_processing/node2vec-datasets/homo_sapiens.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/data_processing/graph_sage_loader.py" />
+        <option value="$PROJECT_DIR$/features-scratch/create_dataset.py" />
+        <option value="$PROJECT_DIR$/scripts/run_sup_pred_w_features.py" />
+        <option value="$PROJECT_DIR$/scripts/dataset_logic.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/models/node_classification_template.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/models/multilabel_node_classification_template.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/models/node_classification.py" />
+        <option value="$PROJECT_DIR$/features-dev/run_sup_pred_w_features.py" />
+        <option value="$PROJECT_DIR$/features-dev/create_dataset.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/models/metrics.py" />
+        <option value="$PROJECT_DIR$/features-dev/train_classifier.py" />
+        <option value="$PROJECT_DIR$/features-dev/run_classifier.py" />
+        <option value="$PROJECT_DIR$/features-dev/node_classification.py" />
+        <option value="$PROJECT_DIR$/features-dev/predictor_class_and_losses.py" />
+        <option value="$PROJECT_DIR$/node-classification-with-features/predictor_class_and_losses.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/test.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/models/skipgram.py" />
+        <option value="$PROJECT_DIR$/node_classification_with_features/Sample.py" />
+        <option value="$PROJECT_DIR$/node_classification_with_features/predictor_class_and_losses.py" />
+        <option value="$PROJECT_DIR$/node_classification_with_features/node_classification_template.py" />
+        <option value="$PROJECT_DIR$/relational_sgd/sampling/adapters.py" />
+        <option value="$PROJECT_DIR$/relational_erm/data_processing/graph_sage_loader.py" />
+        <option value="$PROJECT_DIR$/node_classification_with_features/dataset_logic/dataset_logic.py" />
+        <option value="$PROJECT_DIR$/node_classification_with_features/dataset_logic/graph_sage_preprocess.py" />
+        <option value="$PROJECT_DIR$/node_classification_with_features/run_classifier.py" />
+        <option value="$PROJECT_DIR$/relational_erm/sampling/factories.py" />
+        <option value="$PROJECT_DIR$/node_classification_with_features/sample.py" />
+        <option value="$PROJECT_DIR$/relational_erm/sampling/adapters.py" />
+        <option value="$PROJECT_DIR$/submit_scripts/run_joint_cpu_emayhem.sh" />
+        <option value="$PROJECT_DIR$/submit_scripts/run_unsupervised.sh" />
+        <option value="$PROJECT_DIR$/relational_erm/data_cleaning/simulate_treatment_outcome.py" />
+        <option value="$PROJECT_DIR$/relational_erm/data_cleaning/simulate_treatment_outcome_baseline.py" />
+        <option value="$PROJECT_DIR$/relational_erm/dataset/dataset.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/relational_erm/rerm_model/treatment_outcome_predictor.py" />
+        <option value="$PROJECT_DIR$/submit_scripts/run_classifier.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="612" />
+    <option name="y" value="204" />
+    <option name="width" value="1400" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="relational_ERM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="relational_ERM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="relational_ERM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="relational_ERM" type="462c0819:PsiDirectoryNode" />
+              <item name="relational_erm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="relational_ERM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="relational_ERM" type="462c0819:PsiDirectoryNode" />
+              <item name="relational_erm" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="relational_ERM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="relational_ERM" type="462c0819:PsiDirectoryNode" />
+              <item name="relational_erm" type="462c0819:PsiDirectoryNode" />
+              <item name="rerm_model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="relational_ERM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="relational_ERM" type="462c0819:PsiDirectoryNode" />
+              <item name="submit_scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node_classification_with_features/dataset_logic" />
+      <recent name="$PROJECT_DIR$/node-classification-with-features" />
+      <recent name="$PROJECT_DIR$/features-dev" />
+      <recent name="$PROJECT_DIR$/relational_sgd/data_processing/node2vec-datasets" />
+      <recent name="$PROJECT_DIR$/graph_ops" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/submit_scripts" />
+      <recent name="$PROJECT_DIR$/node_classification_with_features/dataset_logic" />
+      <recent name="$PROJECT_DIR$/relational_sgd/models" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/relational_sgd/data_processing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_classifier">
+    <configuration name="node2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/node2vec.py" />
+      <option name="PARAMETERS" value="--data-dir $PROJECT_DIR$/../data/wikipedia_word_coocurr/wiki_pos.npz --train-dir $PROJECT_DIR$/../logging/skipgram_pos  --seed 27  --num-negative 0 --window-size 1 --num-edges 80" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/node_classification_with_features/run_classifier.py" />
+      <option name="PARAMETERS" value="--train-dir $PROJECT_DIR$/../logging/reddit --data-dir ../data/reddit/reddit.npz --sampler biased-walk --batch-size 10 --max-steps 2000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_skipgram_bc3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/run_skipgram_simple.py" />
+      <option name="PARAMETERS" value="--data-dir $PROJECT_DIR$/../data/blog_catalog_3/blog_catalog.npz --train-dir $PROJECT_DIR$/../logging/skipgram_bc3 --max-steps 40000 --label-task-weight 0.00001 --batch-size 8 --global_regularization 10. --global_learning_rate 0. --label-task-weight 0.00000001 --sampler biased-walk" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_skipgram_pp" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/rerm-dev/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/run_skipgram_simple.py" />
+      <option name="PARAMETERS" value="--data-dir $PROJECT_DIR$/../data/homo_sapiens/homo_sapiens.npz --train-dir $PROJECT_DIR$/../logging/skipgram_pp --max-steps 100000 --global_regularization 1. --global_learning_rate 1. --label-task-weight 1e-30 --sampler biased-walk --batch-size 10" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_skipgram_wikipos" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/run_skipgram_simple.py" />
+      <option name="PARAMETERS" value="--data-dir $PROJECT_DIR$/../data/wikipedia_word_coocurr/wiki_pos.npz --train-dir $PROJECT_DIR$/../logging/skipgram_pos  --max-steps 100000 --global_regularization 1. --global_learning_rate 1. --label-task-weight 1e-30 --sampler biased-walk --exotic-evaluation" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_sup_pred_w_features" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/node-classification-with-features/run_classifier.py" />
+      <option name="PARAMETERS" value="--train-dir $PROJECT_DIR$/../logging/reddit --sampler biased-walk --batch-size 10" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="skipgram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relational_sgd/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="src" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/relational_sgd/models/skipgram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.run_skipgram_pp" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run_skipgram_wikipos" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run_skipgram_bc3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.node2vec" />
+      <item index="4" class="java.lang.String" itemvalue="Python.skipgram" />
+      <item index="5" class="java.lang.String" itemvalue="Python.run_sup_pred_w_features" />
+      <item index="6" class="java.lang.String" itemvalue="Python.run_classifier" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.run_classifier" />
+        <item index="1" class="java.lang.String" itemvalue="Python.run_sup_pred_w_features" />
+        <item index="2" class="java.lang.String" itemvalue="Python.skipgram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.node2vec" />
+        <item index="4" class="java.lang.String" itemvalue="Python.run_skipgram_bc3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a999fbb8-2421-4d92-ac9b-194c16581287" name="Default" comment="" />
+      <created>1524078251826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524078251826</updated>
+    </task>
+    <task id="LOCAL-00089" summary="another bug fix">
+      <created>1525577673327</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1525577673327</updated>
+    </task>
+    <task id="LOCAL-00090" summary="yet another script bug fix">
+      <created>1525578166325</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1525578166325</updated>
+    </task>
+    <task id="LOCAL-00091" summary="reworked the electric mayhem submission scripts and added a second&#10;tensorflow-only logistic regression training (w some small changes&#10;in other places to get this to work smoothly)">
+      <created>1525628844400</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1525628844401</updated>
+    </task>
+    <task id="LOCAL-00092" summary="pushing to make sure defaults are reasonable">
+      <created>1525638428295</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1525638428295</updated>
+    </task>
+    <task id="LOCAL-00093" summary="rescale regularization by label weight">
+      <created>1525638822944</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1525638822944</updated>
+    </task>
+    <task id="LOCAL-00094" summary="tensorflow logistic regression (w SGD) w node2vec scoring code">
+      <created>1525641486305</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1525641486305</updated>
+    </task>
+    <task id="LOCAL-00095" summary="slurm script tweaks">
+      <created>1525645105421</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1525645105421</updated>
+    </task>
+    <task id="LOCAL-00096" summary="script fix">
+      <created>1525645250201</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1525645250201</updated>
+    </task>
+    <task id="LOCAL-00097" summary="linux type error fix">
+      <created>1525664834388</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1525664834388</updated>
+    </task>
+    <task id="LOCAL-00098" summary="new sweep for logistic regression (+ using large batch size)">
+      <created>1525666575481</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1525666575481</updated>
+    </task>
+    <task id="LOCAL-00099" summary="tf logistic regression works properly w batch size now">
+      <created>1525667799091</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1525667799091</updated>
+    </task>
+    <task id="LOCAL-00100" summary="script changes to rerun sweep on induced samplers on gpu &#10;(failed on first sweep)">
+      <created>1525701699547</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1525701699547</updated>
+    </task>
+    <task id="LOCAL-00101" summary="trying cpu sweep of induced samplers (bug appears to be gpu only)">
+      <created>1525703707625</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1525703707625</updated>
+    </task>
+    <task id="LOCAL-00102" summary="adding induced walk w negative sampling to the sweep code">
+      <created>1525715481111</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1525715481111</updated>
+    </task>
+    <task id="LOCAL-00103" summary="reg+learning rate sweep on full problem (to figure out what's up&#10;with weird different embedding + logreg results)">
+      <created>1525742807207</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1525742807207</updated>
+    </task>
+    <task id="LOCAL-00104" summary="sweep on local learning rates for induced subgraph problem&#10;(to avoid NaN issues...)">
+      <created>1525743444805</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1525743444805</updated>
+    </task>
+    <task id="LOCAL-00105" summary="script for fresh cpu sweep">
+      <created>1525752406913</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1525752406913</updated>
+    </task>
+    <task id="LOCAL-00106" summary="experiment w different values of p in p-sampling">
+      <created>1525754414918</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1525754414918</updated>
+    </task>
+    <task id="LOCAL-00107" summary="experiment w different values of p in p-sampling">
+      <created>1525807535443</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1525807535444</updated>
+    </task>
+    <task id="LOCAL-00108" summary="added node2vec style scoring">
+      <created>1525814419488</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1525814419489</updated>
+    </task>
+    <task id="LOCAL-00109" summary="names for node2vec and specified eval">
+      <created>1525815285380</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1525815285380</updated>
+    </task>
+    <task id="LOCAL-00110" summary="janice script to sweep joint training">
+      <created>1525817018850</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1525817018850</updated>
+    </task>
+    <task id="LOCAL-00111" summary="adding local learning rate to sweep">
+      <created>1525818394781</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1525818394781</updated>
+    </task>
+    <task id="LOCAL-00112" summary="better sweep">
+      <created>1525819942131</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1525819942131</updated>
+    </task>
+    <task id="LOCAL-00113" summary="redoing table sweep incorporating today's bug fixes">
+      <created>1525837064754</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1525837064754</updated>
+    </task>
+    <task id="LOCAL-00114" summary="experimenting w regularization of the embeddings">
+      <created>1525839937842</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1525839937844</updated>
+    </task>
+    <task id="LOCAL-00115" summary="sweep label-aware embeddings on larger dataset to see if it makes a &#10;difference">
+      <created>1525883870758</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1525883870758</updated>
+    </task>
+    <task id="LOCAL-00116" summary="modified node2vec for slightly easier debugging">
+      <created>1525891818579</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1525891818579</updated>
+    </task>
+    <task id="LOCAL-00117" summary="even more messing with learning rates...">
+      <created>1525896033670</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1525896033670</updated>
+    </task>
+    <task id="LOCAL-00118" summary="redoing sweep in node2vec style (no global training)&#10;(motivation: label information keeps leaking into training and screwing&#10;up the post-hoc sklearn regression)">
+      <created>1525902462023</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1525902462023</updated>
+    </task>
+    <task id="LOCAL-00119" summary="some tiny improvements to sweep scripts, and a script to do&#10;test-train split comparisons on janice">
+      <created>1525905870770</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1525905870770</updated>
+    </task>
+    <task id="LOCAL-00120" summary="added the ability to train (and score) labels using only the vertices &#10;selected by the positive sampling scheme">
+      <created>1525937437999</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1525937438000</updated>
+    </task>
+    <task id="LOCAL-00121" summary="turning off embedding regularization">
+      <created>1525966620289</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1525966620290</updated>
+    </task>
+    <task id="LOCAL-00122" summary="rerun test-train split comp :(">
+      <created>1525967479908</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1525967479909</updated>
+    </task>
+    <task id="LOCAL-00123" summary="fix to node2vec testing and reenable positive-only label scoring">
+      <created>1525967866699</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1525967866699</updated>
+    </task>
+    <task id="LOCAL-00124" summary="changed skipgram loss to canonical calculation (that is, double count&#10;positive examples)">
+      <created>1525979845752</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1525979845752</updated>
+    </task>
+    <task id="LOCAL-00125" summary="undo windowing change">
+      <created>1526080331085</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1526080331085</updated>
+    </task>
+    <task id="LOCAL-00126" summary="bug &quot;free&quot; (at least, n2v pp replicates as expected)">
+      <created>1526082328204</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1526082328204</updated>
+    </task>
+    <task id="LOCAL-00127" summary="removing 'labelled_verts' (which became deprecated when batching was&#10;introduced)">
+      <created>1539697822365</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1539697822366</updated>
+    </task>
+    <task id="LOCAL-00128" summary="removing some cruft">
+      <created>1539698495700</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1539698495700</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Script to load data and process data in graphsage format">
+      <created>1539787338023</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1539787338024</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Cleanup">
+      <created>1539787377308</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1539787377308</updated>
+    </task>
+    <task id="LOCAL-00131" summary="modifying dataset_logic to handle preprocessed graphsage data">
+      <created>1539788881211</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1539788881211</updated>
+    </task>
+    <task id="LOCAL-00132" summary="more modifications to handle graphsage type data">
+      <created>1539808397769</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1539808397772</updated>
+    </task>
+    <task id="LOCAL-00133" summary="removed a chunk of (irrelevant) debugging code">
+      <created>1539812187773</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1539812187773</updated>
+    </task>
+    <task id="LOCAL-00134" summary="added semi-supervised node classifier that uses vertex features, and&#10;an example script for running it&#10;(Haven't tested either, and indeed I expect this model to be a bit dumb)">
+      <created>1539814569912</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1539814569915</updated>
+    </task>
+    <task id="LOCAL-00135" summary="typo fix">
+      <created>1539814621105</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1539814621105</updated>
+    </task>
+    <task id="LOCAL-00136" summary="finishing touches on demo illustrating the use of relational ERM for&#10;node classification using both graph structure and node features">
+      <created>1540236677323</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1540236677324</updated>
+    </task>
+    <task id="LOCAL-00137" summary="bug fix: the dataset was being written as part of the computational graph,&#10;which had the effect of making graph building ridiculously slow and&#10;memory intensive, and of making tensorboard unusable.&#10;Fix: pyfunc-based hack to stop tf.constants from being created">
+      <created>1540252899620</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1540252899622</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="2495" height="1444" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33182007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32798716" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3648757" sideWeight="0.11267024" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287891" sideWeight="0.49525383" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3648757" sideWeight="0.88732976" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287891" sideWeight="0.49360296" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33520448" sideWeight="0.8456459" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969047" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935845" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287891" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32798716" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3648757" sideWeight="0.11267024" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3648757" sideWeight="0.88732976" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287891" sideWeight="0.49360296" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33520448" sideWeight="0.8456459" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32728022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287891" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287891" sideWeight="0.49525383" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969047" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935845" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="redoing table sweep incorporating today's bug fixes" />
+    <MESSAGE value="experimenting w regularization of the embeddings" />
+    <MESSAGE value="sweep label-aware embeddings on larger dataset to see if it makes a &#10;difference" />
+    <MESSAGE value="modified node2vec for slightly easier debugging" />
+    <MESSAGE value="even more messing with learning rates..." />
+    <MESSAGE value="redoing sweep in node2vec style (no global training)&#10;(motivation: label information keeps leaking into training and screwing&#10;up the post-hoc sklearn regression)" />
+    <MESSAGE value="some tiny improvements to sweep scripts, and a script to do&#10;test-train split comparisons on janice" />
+    <MESSAGE value="added the ability to train (and score) labels using only the vertices &#10;selected by the positive sampling scheme" />
+    <MESSAGE value="turning off embedding regularization" />
+    <MESSAGE value="rerun test-train split comp :(" />
+    <MESSAGE value="fix to node2vec testing and reenable positive-only label scoring" />
+    <MESSAGE value="changed skipgram loss to canonical calculation (that is, double count&#10;positive examples)" />
+    <MESSAGE value="undo windowing change" />
+    <MESSAGE value="bug &quot;free&quot; (at least, n2v pp replicates as expected)" />
+    <MESSAGE value="removing 'labelled_verts' (which became deprecated when batching was&#10;introduced)" />
+    <MESSAGE value="removing some cruft" />
+    <MESSAGE value="Script to load data and process data in graphsage format" />
+    <MESSAGE value="Cleanup" />
+    <MESSAGE value="modifying dataset_logic to handle preprocessed graphsage data" />
+    <MESSAGE value="more modifications to handle graphsage type data" />
+    <MESSAGE value="removed a chunk of (irrelevant) debugging code" />
+    <MESSAGE value="added semi-supervised node classifier that uses vertex features, and&#10;an example script for running it&#10;(Haven't tested either, and indeed I expect this model to be a bit dumb)" />
+    <MESSAGE value="typo fix" />
+    <MESSAGE value="finishing touches on demo illustrating the use of relational ERM for&#10;node classification using both graph structure and node features" />
+    <MESSAGE value="bug fix: the dataset was being written as part of the computational graph,&#10;which had the effect of making graph building ridiculously slow and&#10;memory intensive, and of making tensorboard unusable.&#10;Fix: pyfunc-based hack to stop tf.constants from being created" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix: the dataset was being written as part of the computational graph,&#10;which had the effect of making graph building ridiculously slow and&#10;memory intensive, and of making tensorboard unusable.&#10;Fix: pyfunc-based hack to stop tf.constants from being created" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/node_classification_with_features/sample.py</url>
+          <line>128</line>
+          <log-expression expression="'num_negative_total',&#10;                                    'proportion_censored',&#10;                                    'seed',&#10;                                    'batch_size'])&#10;&#10;    args.num_edges = 800&#10;    args.window_size = 10&#10;    args.dataset_shards = 1&#10;    args.num_negative = 5&#10;    args.num_negative_total = None&#10;    args.proportion_censored = 0.5&#10;    args.seed = 0&#10;    args.batch_size = 1&#10;&#10;    # testing dataset&#10;    dataset_fn = factories.make_biased_random_walk_dataset(args)&#10;    # dataset = dataset_fn(graph_data, args.seed)&#10;    input_fn = make_input_fn(graph_data, args, dataset_fn)&#10;&#10;    dataset = input_fn()&#10;    sampler = dataset.make_one_shot_iterator()&#10;    samp = sampler.get_next()" language="Python" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/run_skipgram_simple.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/models/metrics.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/sampling/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15008">
+          <caret line="474" column="11" lean-forward="false" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
+          <folding>
+            <element signature="e#574#592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/sample.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/sampling/factories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4128">
+          <caret line="134" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/run_wikipedia_links.py" />
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/dataset_logic/dataset_logic.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/graph_ops/representations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/node_classification_template.py" />
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/run_classifier.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/run_skipgram_simple.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/models/metrics.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/sampling/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15008">
+          <caret line="474" column="11" lean-forward="false" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
+          <folding>
+            <element signature="e#574#592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/sample.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/sampling/factories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4128">
+          <caret line="134" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/run_wikipedia_links.py" />
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/dataset_logic/dataset_logic.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/graph_ops/representations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/node_classification_template.py" />
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/run_classifier.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/run_skipgram_simple.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/models/metrics.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/sampling/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15008">
+          <caret line="474" column="11" lean-forward="false" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
+          <folding>
+            <element signature="e#574#592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/run_wikipedia_links.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/graph_ops/representations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/dataset_logic/dataset_logic.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/models/skipgram.py" />
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/run_classifier.py" />
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/sample.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/sampling/negative_sampling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/Skipgram-Demo.ipynb" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/sampling/factories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2560">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="e#196#219#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relational_erm/models/metrics.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/models/multilabel_node_classification_template.py" />
+    <entry file="file://$PROJECT_DIR$/node_classification_with_features/node_classification_template.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/run_skipgram_simple.py" />
+    <entry file="file://$PROJECT_DIR$/relational_erm/sampling/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="370" column="63" lean-forward="false" selection-start-line="370" selection-start-column="63" selection-end-line="370" selection-end-column="63" />
+          <folding>
+            <element signature="e#574#592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relational_erm/rerm_model/run_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_scripts/submit_p-sampling_emayhem.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_scripts/run_unsupervised_only_emayhem.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_scripts/run_joint_emayhem.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_scripts/submit_rw_emayhem.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_scripts/submit_unsupervised_emayhem.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_scripts/run_joint_cpu_emayhem.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="56" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relational_erm/data_cleaning/simulate_treatment_outcome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="357" column="44" lean-forward="false" selection-start-line="357" selection-start-column="44" selection-end-line="357" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relational_erm/data_cleaning/simulate_treatment_outcome_baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="355" column="46" lean-forward="false" selection-start-line="355" selection-start-column="46" selection-end-line="355" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_scripts/run_unsupervised.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="52" lean-forward="false" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relational_erm/dataset/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+          <folding>
+            <element signature="e#64#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="160">
+            <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relational_erm/rerm_model/treatment_outcome_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="460" column="0" lean-forward="true" selection-start-line="460" selection-start-column="0" selection-end-line="460" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_scripts/run_classifier.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
